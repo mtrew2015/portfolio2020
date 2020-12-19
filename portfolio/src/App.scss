@@ -1,0 +1,25 @@
+.App{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+h1{
+    z-index: 1000;
+    color: rgb(201, 45, 201);
+    font-size: 64px;
+    background-color: black;
+    margin-top: 10px;
+}
+
+background-image: url("./assets/stars.jpg");
+
+/* Set a specific height */
+height: 700px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}

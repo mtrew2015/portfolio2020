@@ -10,12 +10,15 @@ function App() {
       <div className="skillsSection">
         <h1>Technologies</h1>
         <ul>
-          <li>
-            JavaScript
-          </li>
-          <li>
-            Node Js
-          </li>
+          <li>JavaScript</li>
+          <li>Java</li>
+          <li>Node Js</li>
+          <li>React JS</li>
+          <li>Vue JS</li>
+          <li>CSS/Sass/Less</li>
+          <li>HTML5</li>
+          <li>Bootstrap</li>
+          <li>Material Design </li>
         </ul>
       </div>
     </div>

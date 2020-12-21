@@ -8,7 +8,7 @@ function App() {
         <h1>I'm a Web Developer</h1>
       </div>
       <div className="skillsSection">
-        <h1>Technologies</h1>
+        <h1>Technologies/Skills</h1>
         <ul>
           <li>JavaScript</li>
           <li>Java</li>

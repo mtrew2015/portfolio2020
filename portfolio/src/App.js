@@ -12,6 +12,7 @@ function App() {
         <ul>
           <li>JavaScript</li>
           <li>Java</li>
+          <li>Python</li>
           <li>Node Js</li>
           <li>SQL</li>
           <li>GraphQL</li>

@@ -13,6 +13,8 @@ function App() {
           <li>JavaScript</li>
           <li>Java</li>
           <li>Node Js</li>
+          <li>SQL</li>
+          <li>GraphQL</li>
           <li>React JS</li>
           <li>Vue JS</li>
           <li>CSS/Sass/Less</li>
